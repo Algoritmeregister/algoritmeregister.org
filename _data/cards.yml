@@ -10,6 +10,10 @@
   url: https://www.algoritmeregister.org/beheertool
   description: De Provincie Noord-Brabant ontwikkelt momenteel een “beheertool” in het kader van publieke controle op algoritmes en het algoritmeregister, ter ondersteuning van meer grip op de verantwoorde inzet van algoritmes in besluitvormings- en uitvoerprocessen, en meer transparantie door deze informatie beschikbaar stellen via het centrale algoritmeregister.
   image: https://www.algoritmeregister.org/beheertool/assets/img/Menu.png
+- title: Beheertool Verantwoorde Inzet van Technologie
+  url: https://www.algoritmeregister.org/pnb-sensoren
+  description: Beheertool voor inzet van algoritmes, sensoren en andere vormen van digitale technologie in publieke organisaties.
+  image: https://i.imgur.com/Mc7bIfx.png
 - title: Eurocities Standard
   url: https://www.algorithmregister.org
   description: The Algorithmic Transparency Standard helps European cities provide clear information about the algorithmic tools they use, and why they’re using them.
